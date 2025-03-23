@@ -3,15 +3,15 @@
    version="1.0"
    width="128"
    height="128"
-   viewBox="0 0 512 512"
-   preserveAspectRatio="xMidYMid"
+   viewBox="0 0 128 128"
+   preserveAspectRatio="xMidYMid meet"
    id="svg5"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs5" />
   <g
-     transform="matrix(0.06253481,0,0,-0.06253481,-364.29905,900.35211)"
+     transform="matrix(0.01563370,0,0,-0.01563370,-91.07476,225.08803)"
      fill="#000000"
      stroke="none"
      id="g5"
